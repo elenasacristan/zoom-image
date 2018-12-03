@@ -1,0 +1,11 @@
+img {
+	margin: 100px;
+	transform: scale(1.0);
+    transition: transform 1s ease-in;
+   
+}
+
+img:hover{
+    transform: scale(2.0);
+}
+
