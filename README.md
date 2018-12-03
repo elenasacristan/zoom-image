@@ -1,18 +1,11 @@
+# Challenge: Zoom image
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+### Description:
+Duplicate the size of the image if you hover over it.
 
+The zoom will be gradual and the duration will be 1 second.
 
-Hi there! Welcome to Cloud9 IDE!
+## Link
+Click [here](https://elenasacristan.github.io/zoom-image/ "link to website") to see the website
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+**Autor**: Elena
